@@ -132,10 +132,6 @@ p{
     align-items: center;
 }
 
-.sponsors{
-    
-}
-
 .website{
     margin-top: 100px;
     display: flex;
@@ -148,6 +144,17 @@ p{
 .website a{
     color: #ffff00;
     text-decoration: none;
+}
+
+.druiven{
+    background-color: #90ee90;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.druiven h1 h2 h3 p a{
+    color: #ffff00;
 }
 
 
