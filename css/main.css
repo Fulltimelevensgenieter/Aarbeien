@@ -123,6 +123,23 @@ p{
     align-items: center;
 }
 
+.sponsors{
+    
+}
+
+.website{
+    margin-top: 100px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-left: 710px;
+}
+
+.website a{
+    color: #ffff00;
+    text-decoration: none;
+}
+
 
 
 
