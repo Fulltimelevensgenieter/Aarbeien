@@ -113,6 +113,7 @@ h2{
 
 li{
     color: #0000ff;
+    list-style-type: none;
 }
 
 h3{
