@@ -132,7 +132,8 @@ p{
     display: flex;
     align-items: center;
     text-align: center;
-    margin-left: 710px;
+    margin-left: 410px;
+    font-size: 100px;
 }
 
 .website a{
