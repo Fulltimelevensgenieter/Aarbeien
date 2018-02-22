@@ -149,12 +149,14 @@ p{
 .druiven{
     background-color: #90ee90;
     display: flex;
-    align-items: center;
     justify-content: center;
 }
 
 .druiven h1 h2 h3 p a{
     color: #ffff00;
+}
+.druiven img{
+    margin-top: 250px;
 }
 
 
